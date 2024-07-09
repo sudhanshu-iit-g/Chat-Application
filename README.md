@@ -12,8 +12,8 @@ This is a real-time chat application built using React for the frontend and Node
 * WebSockets: Socket.IO
 
 
-Getting Started
-**Prerequisites**
+
+**Prerequisites ->** 
 Ensure you have the following installed:
 
 * Node.js (v14 or later)
